@@ -1,5 +1,5 @@
-# Created by: Mr. Coxall
-# Created on: Sep 2016
+# Created by: Roman Beya and Nick Brean
+# Created on: Jan 2018
 # Created for: ICS3U
 # This program is the first file in a multi-scene game template
 #    This template is meant to be used with the Xcode template,
@@ -15,13 +15,12 @@
 # It is assumed you bring along all your assets, 
 #   and not use any of the mornal ones built into Pythonista.
 #y
-# To exit the app in Pythonista, pull down with 2 fingers.
+ # To exit the app in Pythonista, pull down with 2 fingers.
 
 from scene import *
 import ui
 
 from splash_scene import *
-
 
 #  ..use when deploying app for Xcode and the App Store
 main_view = ui.View()
